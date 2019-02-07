@@ -28,3 +28,4 @@ $ mvn clean test
 $ mvn site
 ```
 3.1 Go to directory with results report (/target/site/allure-maven.html) and open it in browser.
+![Allure report](https://i.ibb.co/HHRcLG6/Allure-Mobile.png)
