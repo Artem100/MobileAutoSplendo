@@ -13,8 +13,8 @@ Test created in Linux OS.
 
 ## Setup
 Intall on your server or PC the softwares:
-*Appium Desktop - https://github.com/appium/appium-desktop/releases/
-*Android Studio and Android SDK - https://developer.android.com/studio/index.html
+* Appium Desktop - https://github.com/appium/appium-desktop/releases/
+* Android Studio and Android SDK - https://developer.android.com/studio/index.html
 
 ##Сontiditions
 *Run Appium;
